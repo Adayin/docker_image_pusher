@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-bitnami/zookeeper:3.8
-bitnami/kafka:3
+zookeeper:3.8
+confluentinc/cp-kafka:latest
 apache/flink:1.17-scala_2.12
 clickhouse/clickhouse-server:latest
