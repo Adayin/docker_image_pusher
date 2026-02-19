@@ -8,12 +8,13 @@
 #confluentinc/cp-kafka:latest
 #apache/flink:1.17-scala_2.12
 #clickhouse/clickhouse-server:latest
-prom/prometheus:latest
-debezium/connect:2.2
+#prom/prometheus:latest
+#debezium/connect:2.2
 grafana/grafana:latest
-docker.redpanda.com/redpandadata/redpanda:latest
+#docker.redpanda.com/redpandadata/redpanda:latest
 apache/hive:latest
-rabbitmq:3-management
+#rabbitmq:3-management
 apache/spark:3.5.1
 apache/druid:24.0.0
 postgres:15
+mysql:latest
