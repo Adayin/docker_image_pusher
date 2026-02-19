@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #zookeeper:3.8
-apache/kafka:3.6.1
+bitnami/kafka:3.6.1
 #apache/flink:1.17-scala_2.12
 clickhouse/clickhouse-server:23.8
 #prom/prometheus:latest
