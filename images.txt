@@ -13,7 +13,8 @@
 grafana/grafana:latest
 #docker.redpanda.com/redpandadata/redpanda:latest
 #rabbitmq:3-management
-apache/spark:3.5.1
-apache/druid:24.0.0
-postgres:15
-mysql:latest
+apache/spark:3.5.0-scala2.12-java11-python3-ubuntu
+#apache/spark:3.5.1
+#apache/druid:24.0.0
+#postgres:15
+#mysql:latest
