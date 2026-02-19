@@ -12,7 +12,6 @@
 #debezium/connect:2.2
 grafana/grafana:latest
 #docker.redpanda.com/redpandadata/redpanda:latest
-apache/hive:latest
 #rabbitmq:3-management
 apache/spark:3.5.1
 apache/druid:24.0.0
