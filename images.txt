@@ -7,7 +7,7 @@
 #zookeeper:3.8
 confluentinc/cp-kafka:7.6.0
 #apache/flink:1.17-scala_2.12
-clickhouse/clickhouse-server:23.8
+#clickhouse/clickhouse-server:23.8
 #prom/prometheus:latest
 #debezium/connect:2.2
 #grafana/grafana:latest
@@ -15,6 +15,7 @@ clickhouse/clickhouse-server:23.8
 #rabbitmq:3-management
 #apache/spark:3.5.0-scala2.12-java11-python3-ubuntu
 #apache/spark:3.5.1
-apache/druid:24.0.0
+#apache/druid:24.0.0
 #postgres:15
 #mysql:latest
+apache/airflow:2.7.2
