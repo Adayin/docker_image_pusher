@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #zookeeper:3.8
-confluentinc/cp-kafka:7.6.0
+#confluentinc/cp-kafka:7.6.0
 #apache/flink:1.17-scala_2.12
 #clickhouse/clickhouse-server:23.8
 #prom/prometheus:latest
@@ -18,4 +18,5 @@ confluentinc/cp-kafka:7.6.0
 #apache/druid:24.0.0
 #postgres:15
 #mysql:latest
+ollama/ollama:0.17.5
 apache/airflow:2.7.2
